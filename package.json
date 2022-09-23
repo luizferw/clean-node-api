@@ -7,6 +7,11 @@
     "test": "vitest",
     "prepare": "husky install"
   },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
